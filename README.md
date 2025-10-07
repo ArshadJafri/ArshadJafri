@@ -11,10 +11,12 @@
 ### 🔗 Connect & Explore
 
 <div align="center">
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshadJafri)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-0058B3?style=for-the-badge)](https://www.codebyarshad.com)  
-[![Repositories](https://img.shields.io/badge/Repositories-📁-228B22?style=for-the-badge)](https://github.com/ArshadJafri?tab=repositories)  
-[![Blog & Posts](https://img.shields.io/badge/Blog-&-Posts-📝-FFA500?style=for-the-badge)](https://www.codebyarshad.com/blog)
+
+[<img src="https://example.com/github-button-red.png" alt="GitHub Profile" height="40">](https://github.com/ArshadJafri)  
+[<img src="https://example.com/portfolio-button-blue.png" alt="Portfolio" height="40">](https://www.codebyarshad.com)  
+[<img src="https://example.com/repos-button-green.png" alt="Repositories" height="40">](https://github.com/ArshadJafri?tab=repositories)  
+[<img src="https://example.com/blog-button-orange.png" alt="Blog & Posts" height="40">](https://www.codebyarshad.com/blog)
+
 </div>
 
 
