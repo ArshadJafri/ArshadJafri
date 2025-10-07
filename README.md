@@ -11,14 +11,11 @@
 ### 🔗 Connect & Explore
 
 <div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshadJafri)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-0058B3?style=for-the-badge)](https://www.codebyarshad.com)  
-[![Repositories](https://img.shields.io/badge/Repositories-📁-228B22?style=for-the-badge)](https://github.com/ArshadJafri?tab=repositories)  
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshadJafri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-0058B3?style=for-the-badge)](https://www.codebyarshad.com)
+[![Repositories](https://img.shields.io/badge/Repositories-📁-228B22?style=for-the-badge)](https://github.com/ArshadJafri?tab=repositories)
 [![Blog & Posts](https://img.shields.io/badge/Blog-&-Posts-📝-FFA500?style=for-the-badge)](https://www.codebyarshad.com/blog)
-
 </div>
-
 
 
 <h2 align="left">🧰 Work Experience</h2>
