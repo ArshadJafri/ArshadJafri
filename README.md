@@ -9,27 +9,27 @@
 <p align="left">✨ Creating bugs since … 2000 (some might say I was born debugging)<br>📚 Learning mode: transformers, large language models, biomedical applications and full-stack applications — and yes, I’m also learning how to actually rest<br>🎲 I love good food, weird jokes, and soundtracks that make me feel like I’m walking through a cinematic story — mysterious, brooding, with a hint of hidden power</p>
 
 ### 🔗 Connect & Explore
+### 🔗 Connect & Explore
 
 <div align="center">
 
-<a href="https://github.com/ArshadJafri" target="_blank" style="color: #6cc644; text-decoration: none; margin: 0 10px;">
-  <strong>GitHub Profile</strong>
+<a href="https://github.com/ArshadJafri" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Profile-6cc644?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 
-<a href="https://www.codebyarshad.com" target="_blank" style="color: #1e90ff; text-decoration: none; margin: 0 10px;">
-  <strong>My Portfolio</strong>
+<a href="https://www.codebyarshad.com" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-1e90ff?style=for-the-badge&logo=briefcase&logoColor=white" alt="My Portfolio">
 </a>
 
-<a href="https://github.com/ArshadJafri?tab=repositories" target="_blank" style="color: #32cd32; text-decoration: none; margin: 0 10px;">
-  <strong>Repositories</strong>
+<a href="https://github.com/ArshadJafri?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Repositories-32cd32?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
 
-<a href="https://www.codebyarshad.com/blog" target="_blank" style="color: #ff8c00; text-decoration: none; margin: 0 10px;">
-  <strong>Blog & Posts</strong>
+<a href="https://www.codebyarshad.com/blog" target="_blank">
+  <img src="https://img.shields.io/badge/Blog_&_Posts-ff8c00?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog & Posts">
 </a>
 
 </div>
-
 
 
 <h2 align="left">🧰 Work Experience</h2>
