@@ -11,27 +11,25 @@
 ### 🔗 Connect & Explore
 
 <div align="center">
-  <a href="https://github.com/ArshadJafri" target="_blank">
-    <button style="background-color: #24292e; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
-      GitHub Profile
-    </button>
-  </a>
-  <a href="https://www.codebyarshad.com" target="_blank">
-    <button style="background-color: #0058B3; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
-      My Portfolio
-    </button>
-  </a>
-  <a href="https://github.com/ArshadJafri?tab=repositories" target="_blank">
-    <button style="background-color: #228B22; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
-      Repositories
-    </button>
-  </a>
-  <a href="https://www.codebyarshad.com/blog" target="_blank">
-    <button style="background-color: #FFA500; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
-      Blog & Posts
-    </button>
-  </a>
+
+<a href="https://github.com/ArshadJafri" target="_blank" style="color: #6cc644; text-decoration: none; margin: 0 10px;">
+  <strong>GitHub Profile</strong>
+</a>
+
+<a href="https://www.codebyarshad.com" target="_blank" style="color: #1e90ff; text-decoration: none; margin: 0 10px;">
+  <strong>My Portfolio</strong>
+</a>
+
+<a href="https://github.com/ArshadJafri?tab=repositories" target="_blank" style="color: #32cd32; text-decoration: none; margin: 0 10px;">
+  <strong>Repositories</strong>
+</a>
+
+<a href="https://www.codebyarshad.com/blog" target="_blank" style="color: #ff8c00; text-decoration: none; margin: 0 10px;">
+  <strong>Blog & Posts</strong>
+</a>
+
 </div>
+
 
 
 <h2 align="left">🧰 Work Experience</h2>
