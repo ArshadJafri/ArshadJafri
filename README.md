@@ -8,7 +8,7 @@
 
 <p align="left">✨ Creating bugs since … 2000 (some might say I was born debugging)<br>📚 Learning mode: transformers, large language models, biomedical applications and full-stack applications — and yes, I’m also learning how to actually rest<br>🎲 I love good food, weird jokes, and soundtracks that make me feel like I’m walking through a cinematic story — mysterious, brooding, with a hint of hidden power</p>
 
-### 🔗 Connect & Explore
+
 ### 🔗 Connect & Explore
 
 <div align="center">
