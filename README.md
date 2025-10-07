@@ -133,34 +133,34 @@
 
 ###
 
-<h3 align="left">ML Research Assistant — BRAIN Lab, UTA (2025 – Present) -- Dallas, TX</h3>
+### ML Research Assistant — BRAIN Lab, UTA (2025 – Present) — Dallas, TX
 
-###
+- Built predictive models from MRI, fMRI, and DTI scans to stratify PTSD risk — making neuroimaging less mysterious (and more accurate).  
+- Designed preprocessing pipelines (normalization, augmentation, dimensionality reduction) and cut training time by ~20%.  
+- Fine-tuned deep architectures (CNNs, RNNs, Transformers) while tuning hyperparameters — because “just guess” rarely hits the mark.  
+- Added explainability (Grad-CAM, SHAP) to spotlight brain regions correlated with PTSD — turning “black box” into “somewhat transparent box.”  
+- Automated experiments using MLOps tools (Weights & Biases, Docker, GitHub Actions) — reduced reproducibility errors by ~40%.  
+- Collaborated with neuroscientists to ensure model findings align with psychiatric protocols — bridging code and clinical insight.  
 
-<p align="left">Built predictive models from MRI, fMRI, and DTI scans to stratify PTSD risk — made neuroimaging less mysterious (and more accurate).<br><br>Designed preprocessing pipelines (normalization, augmentation, dimensionality reduction) and slashed training time by ~20%.<br><br>Fine-tuned deep architectures (CNNs, RNNs, Transformers) while tuning hyperparameters — because “just guess” rarely hits the mark.<br><br>Added explainability (Grad-CAM, SHAP) to spotlight brain regions correlating with PTSD — turning “black box” into “somewhat transparent box.”<br><br>Automated experiments using MLOps tools (Weights & Biases, Docker, GitHub Actions) — lowered reproducibility errors by ~40%.<br><br>Collaborated with neuroscientists to ensure that model findings align with psychiatric protocols — bridging code and clinical insight.</p>
+### Summer Research Intern — BRAIN Lab, UTA (May 2025 – Aug 2025) — Dallas, TX
 
-###
+- Transformed structured PTSD datasets into narrative “clinical transcripts” for compatibility with LLMs — avoided format mismatches by ~30%.  
+- Built NLP pipelines in Hugging Face / PyTorch to process 25,000+ text samples — carefully handling each token.  
+- Fine-tuned transformer models (Centaur, LLaMA) to achieve smoother convergence and lower validation loss.  
+- Engineered structured prompts for clinical events — increasing consistency and classification accuracy.  
+- Automated logging, evaluation, and orchestration using Weights & Biases — speeding up iteration cycles by ~25%.  
 
-<h3 align="left">Summer Research Intern — BRAIN Lab, UTA (May 2025 – Aug 2025) -- Dallas, TX</h3>
+### Web Developer — UTA Office of Information Technology (Jun 2024 – Present) — Dallas, TX
 
-###
+- Crafted departmental websites using HTML, CSS, JavaScript, and CMS platforms (WordPress, Sitecore) — making slow pages a thing of the past.  
+- Integrated RESTful APIs and backend services to enable dynamic features — reduced page load times by ~25% across thousands of visits.  
+- Remediated web content for WCAG / accessibility standards — ensuring users of all abilities can browse comfortably.  
 
-<p align="left">Transformed structured PTSD datasets into narrative “clinical transcripts” to make them compatible with LLMs — avoided format mismatches by ~30%.<br><br>Built NLP pipelines with Hugging Face / PyTorch to process 25,000+ text samples — each token carefully handled (no token left behind).<br><br>Fine-tuned transformer models (Centaur, LLaMA) to produce smoother convergence and lower validation loss than baseline.<br><br>Engineered structured prompts for describing clinical events — improved consistency and classification accuracy.<br><br>Automated logging, evaluation, and model orchestration with Weights & Biases — sped up iteration cycles by ~25%.</p>
+### Software Developer — Cognizant Technology Solutions (Sep 2021 – Dec 2023) — Remote, USA
 
-###
-
-<h3 align="left">Web Developer — UTA Office of Information Technology (Jun 2024 – Present) -- Dallas, TX</h3>
-
-###
-
-<p align="left">Crafted departmental websites using HTML, CSS, JavaScript, and CMS platforms (WordPress, Sitecore) — making slow pages a thing of the past.<br><br>Integrated RESTful APIs and backend services to power dynamic features — reduced page load times by ~25% serving thousands of visitors.<br><br>Remediated content for WCAG accessibility standards — so that users with all abilities can browse without pain.</p>
-
-###
-
-<h3 align="left">Software Developer — Cognizant Technology Solutions (Sep 2021 – Dec 2023) -- Remote, USA</h3>
-
-###
-
-<p align="left">Developed and maintained enterprise insurance applications using Java, Spring Boot, JSP/Servlets — features used by 50,000+ policyholders.<br><br>Built reusable backend components and APIs — accelerated product rollout cycles by ~20%.<br><br>Collaborated with analysts and stakeholders to translate domain requirements into tech solutions — “business speak” into “code speak.”<br><br>Diagnosed and debugged complex production issues (logs, monitoring) with ~95%+ resolution success — machines trembled in fear.<br><br>Optimized database queries (MySQL) & refactored core modules — improved transaction speeds by ~30%.<br><br>Participated in Agile sprints, code reviews, CI/CD pipelines (Jenkins/Git) and even handled legacy version control (SVN) — reducing release turnaround time by ~25%.</p>
-
-###
+- Developed and maintained enterprise insurance applications using Java, Spring Boot, JSP / Servlets — features used by 50,000+ policyholders.  
+- Built reusable backend components and APIs — speeding up product rollout cycles by ~20%.  
+- Collaborated with analysts and stakeholders to translate domain requirements into tech solutions — turning “business speak” into “code speak.”  
+- Diagnosed and debugged complex production issues (logs, monitoring) with ~95%+ resolution success — minimizing downtime.  
+- Optimized database queries (MySQL) and refactored core modules — improving transaction speeds by ~30%.  
+- Participated in Agile sprints, peer code reviews, CI/CD (Jenkins / Git), and handled legacy version control (SVN) — reducing release times by ~25%.  
