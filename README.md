@@ -8,14 +8,17 @@
 
 <p align="left">✨ Creating bugs since … 2000 (some might say I was born debugging)<br>📚 Learning mode: transformers, large language models, biomedical applications and full-stack applications — and yes, I’m also learning how to actually rest<br>🎲 I love good food, weird jokes, and soundtracks that make me feel like I’m walking through a cinematic story — mysterious, brooding, with a hint of hidden power</p>
 
+### 🔗 Connect & Explore
+
 <div align="center">
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshadJafri)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge)](https://www.codebyarshad.com)  
-[![Repositories](https://img.shields.io/badge/Repositories-📁-green?style=for-the-badge)](https://github.com/ArshadJafri?tab=repositories)  
-[![Blog & Posts](https://img.shields.io/badge/Blog-&-Posts-📝-orange?style=for-the-badge)](https://www.codebyarshad.com/blog)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-0058B3?style=for-the-badge)](https://www.codebyarshad.com)  
+[![Repositories](https://img.shields.io/badge/Repositories-📁-228B22?style=for-the-badge)](https://github.com/ArshadJafri?tab=repositories)  
+[![Blog & Posts](https://img.shields.io/badge/Blog-&-Posts-📝-FFA500?style=for-the-badge)](https://www.codebyarshad.com/blog)
 
 </div>
+
 
 
 <h2 align="left">🧰 Work Experience</h2>
