@@ -11,12 +11,26 @@
 ### 🔗 Connect & Explore
 
 <div align="center">
-
-[<img src="https://example.com/github-button-red.png" alt="GitHub Profile" height="40">](https://github.com/ArshadJafri)  
-[<img src="https://example.com/portfolio-button-blue.png" alt="Portfolio" height="40">](https://www.codebyarshad.com)  
-[<img src="https://example.com/repos-button-green.png" alt="Repositories" height="40">](https://github.com/ArshadJafri?tab=repositories)  
-[<img src="https://example.com/blog-button-orange.png" alt="Blog & Posts" height="40">](https://www.codebyarshad.com/blog)
-
+  <a href="https://github.com/ArshadJafri" target="_blank">
+    <button style="background-color: #24292e; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
+      GitHub Profile
+    </button>
+  </a>
+  <a href="https://www.codebyarshad.com" target="_blank">
+    <button style="background-color: #0058B3; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
+      My Portfolio
+    </button>
+  </a>
+  <a href="https://github.com/ArshadJafri?tab=repositories" target="_blank">
+    <button style="background-color: #228B22; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
+      Repositories
+    </button>
+  </a>
+  <a href="https://www.codebyarshad.com/blog" target="_blank">
+    <button style="background-color: #FFA500; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 4px;">
+      Blog & Posts
+    </button>
+  </a>
 </div>
 
 
