@@ -8,6 +8,44 @@
 
 <p align="left">✨ Creating bugs since … 2000 (some might say I was born debugging)<br>📚 Learning mode: transformers, large language models, biomedical applications and full-stack applications — and yes, I’m also learning how to actually rest<br>🎲 I love good food, weird jokes, and soundtracks that make me feel like I’m walking through a cinematic story — mysterious, brooding, with a hint of hidden power</p>
 
+## 🔗 Connect & Explore
+
+<div align="center">
+
+<a href="https://github.com/ArshadJafri" target="_blank" style="text-decoration: none;">
+  <button style="background-color: #24292e; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
+    🐙 GitHub Profile
+  </button>
+</a>
+
+<a href="https://www.codebyarshad.com" target="_blank" style="text-decoration: none;">
+  <button style="background-color: #1f77b4; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
+    🌐 My Portfolio
+  </button>
+</a>
+
+<a href="https://github.com/ArshadJafri?tab=repositories" target="_blank" style="text-decoration: none;">
+  <button style="background-color: #28a745; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
+    📁 Repositories
+  </button>
+</a>
+
+<a href="https://www.codebyarshad.com/blog" target="_blank" style="text-decoration: none;">
+  <button style="background-color: #e36209; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
+    📝 Blog & Posts
+  </button>
+</a>
+
+</div>
+
+<script>
+  // Simple hover transform — scale up button on hover
+  document.querySelectorAll('button').forEach(btn => {
+    btn.onmouseover = () => btn.style.transform = 'scale(1.05)';
+    btn.onmouseout = () => btn.style.transform = 'scale(1)';
+  });
+</script>
+
 <h2 align="left">🧰 Work Experience</h2>
 
 ###
