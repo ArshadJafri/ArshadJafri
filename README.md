@@ -8,9 +8,14 @@
 
 <p align="left">✨ Creating bugs since … 2000 (some might say I was born debugging)<br>📚 Learning mode: transformers, large language models, biomedical applications and full-stack applications — and yes, I’m also learning how to actually rest<br>🎲 I love good food, weird jokes, and soundtracks that make me feel like I’m walking through a cinematic story — mysterious, brooding, with a hint of hidden power</p>
 
-<h2 align="left">🧰 Work Experience (Reimagined with Personality)</h2>
+<h2 align="left">🧰 Work Experience</h2>
 
 ###
+<div align="left">
+  <a href="https://www.linkedin.com/in/smdarshadjafri/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ### ML Research Assistant — BRAIN Lab, UTA (2025 – Present) — Dallas, TX
 
@@ -43,6 +48,17 @@
 - Diagnosed and debugged complex production issues (logs, monitoring) with ~95%+ resolution success — minimizing downtime.  
 - Optimized database queries (MySQL) and refactored core modules — improving transaction speeds by ~30%.  
 - Participated in Agile sprints, peer code reviews, CI/CD (Jenkins / Git), and handled legacy version control (SVN) — reducing release times by ~25%.
+
+## 🔍 Activity & Stats
+
+<div align="center">
+
+[![LeetCode Activity](https://leetcard.jacoblin.cool/Arshad101?ext=activity)](https://leetcode.com/Arshad101)
+
+<!-- GitHub contribution chart (green squares) -->
+<img src="https://ghchart.rshah.org/ArshadJafri" alt="github contribution chart" />
+
+</div>
 
 
 <h2 align="left">I code with</h2>
@@ -146,24 +162,10 @@
 
 
 
-## 🔍 Activity & Stats
-
-<div align="center">
-
-[![LeetCode Activity](https://leetcard.jacoblin.cool/Arshad101?ext=activity)](https://leetcode.com/Arshad101)
-
-<!-- GitHub contribution chart (green squares) -->
-<img src="https://ghchart.rshah.org/ArshadJafri" alt="github contribution chart" />
-
-</div>
 
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/smdarshadjafri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
 
