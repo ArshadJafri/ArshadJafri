@@ -106,16 +106,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ArshadJafri/ArshadJafri/output/snake.svg" alt="Snake animation" />
 
-###
+## 🔍 Activity & Stats
 
-## 🔍 LeetCode Activity
+<div align="center">
 
-[![LeetCode Activity](https://leetcard.jacoblin.cool/Arshad101?ext=activity)](https://leetcode.com/Arshad101)  
-*Track your recent problem submissions, challenge streaks, and general consistency over time.*
+[![LeetCode Activity](https://leetcard.jacoblin.cool/Arshad101?ext=activity)](https://leetcode.com/Arshad101)
+
+<!-- GitHub contribution chart (green squares) -->
+<img src="https://ghchart.rshah.org/ArshadJafri" alt="github contribution chart" />
+
+</div>
 
 
 
@@ -162,9 +164,3 @@
 <p align="left">Developed and maintained enterprise insurance applications using Java, Spring Boot, JSP/Servlets — features used by 50,000+ policyholders.<br><br>Built reusable backend components and APIs — accelerated product rollout cycles by ~20%.<br><br>Collaborated with analysts and stakeholders to translate domain requirements into tech solutions — “business speak” into “code speak.”<br><br>Diagnosed and debugged complex production issues (logs, monitoring) with ~95%+ resolution success — machines trembled in fear.<br><br>Optimized database queries (MySQL) & refactored core modules — improved transaction speeds by ~30%.<br><br>Participated in Agile sprints, code reviews, CI/CD pipelines (Jenkins/Git) and even handled legacy version control (SVN) — reducing release turnaround time by ~25%.</p>
 
 ###
-
-
-🔍 LeetCode Activity
-
-[![LeetCode Activity](https://leetcard.jacoblin.cool/Arshad101?ext=activity)](https://leetcode.com/Arshad101)  
-*Track your recent problem submissions, challenge streaks, and general consistency over time.*
