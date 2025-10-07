@@ -8,7 +8,42 @@
 
 <p align="left">✨ Creating bugs since … 2000 (some might say I was born debugging)<br>📚 Learning mode: transformers, large language models, biomedical applications and full-stack applications — and yes, I’m also learning how to actually rest<br>🎲 I love good food, weird jokes, and soundtracks that make me feel like I’m walking through a cinematic story — mysterious, brooding, with a hint of hidden power</p>
 
+<h2 align="left">🧰 Work Experience (Reimagined with Personality)</h2>
+
 ###
+
+### ML Research Assistant — BRAIN Lab, UTA (2025 – Present) — Dallas, TX
+
+- Built predictive models from MRI, fMRI, and DTI scans to stratify PTSD risk — making neuroimaging less mysterious (and more accurate).  
+- Designed preprocessing pipelines (normalization, augmentation, dimensionality reduction) and cut training time by ~20%.  
+- Fine-tuned deep architectures (CNNs, RNNs, Transformers) while tuning hyperparameters — because “just guess” rarely hits the mark.  
+- Added explainability (Grad-CAM, SHAP) to spotlight brain regions correlated with PTSD — turning “black box” into “somewhat transparent box.”  
+- Automated experiments using MLOps tools (Weights & Biases, Docker, GitHub Actions) — reduced reproducibility errors by ~40%.  
+- Collaborated with neuroscientists to ensure model findings align with psychiatric protocols — bridging code and clinical insight.  
+
+### Summer Research Intern — BRAIN Lab, UTA (May 2025 – Aug 2025) — Dallas, TX
+
+- Transformed structured PTSD datasets into narrative “clinical transcripts” for compatibility with LLMs — avoided format mismatches by ~30%.  
+- Built NLP pipelines in Hugging Face / PyTorch to process 25,000+ text samples — carefully handling each token.  
+- Fine-tuned transformer models (Centaur, LLaMA) to achieve smoother convergence and lower validation loss.  
+- Engineered structured prompts for clinical events — increasing consistency and classification accuracy.  
+- Automated logging, evaluation, and orchestration using Weights & Biases — speeding up iteration cycles by ~25%.  
+
+### Web Developer — UTA Office of Information Technology (Jun 2024 – Present) — Dallas, TX
+
+- Crafted departmental websites using HTML, CSS, JavaScript, and CMS platforms (WordPress, Sitecore) — making slow pages a thing of the past.  
+- Integrated RESTful APIs and backend services to enable dynamic features — reduced page load times by ~25% across thousands of visits.  
+- Remediated web content for WCAG / accessibility standards — ensuring users of all abilities can browse comfortably.  
+
+### Software Developer — Cognizant Technology Solutions (Sep 2021 – Dec 2023) — Remote, USA
+
+- Developed and maintained enterprise insurance applications using Java, Spring Boot, JSP / Servlets — features used by 50,000+ policyholders.  
+- Built reusable backend components and APIs — speeding up product rollout cycles by ~20%.  
+- Collaborated with analysts and stakeholders to translate domain requirements into tech solutions — turning “business speak” into “code speak.”  
+- Diagnosed and debugged complex production issues (logs, monitoring) with ~95%+ resolution success — minimizing downtime.  
+- Optimized database queries (MySQL) and refactored core modules — improving transaction speeds by ~30%.  
+- Participated in Agile sprints, peer code reviews, CI/CD (Jenkins / Git), and handled legacy version control (SVN) — reducing release times by ~25%.
+
 
 <h2 align="left">I code with</h2>
 
@@ -106,6 +141,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
+###
+
+
 
 
 ## 🔍 Activity & Stats
@@ -129,38 +167,3 @@
 
 ###
 
-<h2 align="left">🧰 Work Experience (Reimagined with Personality)</h2>
-
-###
-
-### ML Research Assistant — BRAIN Lab, UTA (2025 – Present) — Dallas, TX
-
-- Built predictive models from MRI, fMRI, and DTI scans to stratify PTSD risk — making neuroimaging less mysterious (and more accurate).  
-- Designed preprocessing pipelines (normalization, augmentation, dimensionality reduction) and cut training time by ~20%.  
-- Fine-tuned deep architectures (CNNs, RNNs, Transformers) while tuning hyperparameters — because “just guess” rarely hits the mark.  
-- Added explainability (Grad-CAM, SHAP) to spotlight brain regions correlated with PTSD — turning “black box” into “somewhat transparent box.”  
-- Automated experiments using MLOps tools (Weights & Biases, Docker, GitHub Actions) — reduced reproducibility errors by ~40%.  
-- Collaborated with neuroscientists to ensure model findings align with psychiatric protocols — bridging code and clinical insight.  
-
-### Summer Research Intern — BRAIN Lab, UTA (May 2025 – Aug 2025) — Dallas, TX
-
-- Transformed structured PTSD datasets into narrative “clinical transcripts” for compatibility with LLMs — avoided format mismatches by ~30%.  
-- Built NLP pipelines in Hugging Face / PyTorch to process 25,000+ text samples — carefully handling each token.  
-- Fine-tuned transformer models (Centaur, LLaMA) to achieve smoother convergence and lower validation loss.  
-- Engineered structured prompts for clinical events — increasing consistency and classification accuracy.  
-- Automated logging, evaluation, and orchestration using Weights & Biases — speeding up iteration cycles by ~25%.  
-
-### Web Developer — UTA Office of Information Technology (Jun 2024 – Present) — Dallas, TX
-
-- Crafted departmental websites using HTML, CSS, JavaScript, and CMS platforms (WordPress, Sitecore) — making slow pages a thing of the past.  
-- Integrated RESTful APIs and backend services to enable dynamic features — reduced page load times by ~25% across thousands of visits.  
-- Remediated web content for WCAG / accessibility standards — ensuring users of all abilities can browse comfortably.  
-
-### Software Developer — Cognizant Technology Solutions (Sep 2021 – Dec 2023) — Remote, USA
-
-- Developed and maintained enterprise insurance applications using Java, Spring Boot, JSP / Servlets — features used by 50,000+ policyholders.  
-- Built reusable backend components and APIs — speeding up product rollout cycles by ~20%.  
-- Collaborated with analysts and stakeholders to translate domain requirements into tech solutions — turning “business speak” into “code speak.”  
-- Diagnosed and debugged complex production issues (logs, monitoring) with ~95%+ resolution success — minimizing downtime.  
-- Optimized database queries (MySQL) and refactored core modules — improving transaction speeds by ~30%.  
-- Participated in Agile sprints, peer code reviews, CI/CD (Jenkins / Git), and handled legacy version control (SVN) — reducing release times by ~25%.  
