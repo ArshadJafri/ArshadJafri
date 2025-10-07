@@ -12,39 +12,25 @@
 
 <div align="center">
 
-<a href="https://github.com/ArshadJafri" target="_blank" style="text-decoration: none;">
-  <button style="background-color: #24292e; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
-    🐙 GitHub Profile
-  </button>
+<a href="https://github.com/ArshadJafri" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717.svg?style=social&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
-<a href="https://www.codebyarshad.com" target="_blank" style="text-decoration: none;">
-  <button style="background-color: #1f77b4; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
-    🌐 My Portfolio
-  </button>
+<a href="https://www.codebyarshad.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-🌐-orange.svg?style=for-the-badge" alt="Portfolio" />
 </a>
 
-<a href="https://github.com/ArshadJafri?tab=repositories" target="_blank" style="text-decoration: none;">
-  <button style="background-color: #28a745; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
-    📁 Repositories
-  </button>
+<a href="https://github.com/ArshadJafri?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Repositories-📁-informational.svg?style=for-the-badge" alt="Repositories" />
 </a>
 
-<a href="https://www.codebyarshad.com/blog" target="_blank" style="text-decoration: none;">
-  <button style="background-color: #e36209; color: white; border: none; padding: 8px 16px; margin: 4px; border-radius: 5px; transition: transform 0.2s;">
-    📝 Blog & Posts
-  </button>
+<a href="https://www.codebyarshad.com/blog" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-&-Posts-📝-blue.svg?style=for-the-badge" alt="Blog & Posts" />
 </a>
 
 </div>
 
-<script>
-  // Simple hover transform — scale up button on hover
-  document.querySelectorAll('button').forEach(btn => {
-    btn.onmouseover = () => btn.style.transform = 'scale(1.05)';
-    btn.onmouseout = () => btn.style.transform = 'scale(1)';
-  });
-</script>
+
 
 <h2 align="left">🧰 Work Experience</h2>
 
